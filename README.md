@@ -1,4 +1,4 @@
-# IBM AI Engineering & Generative AI Portfolio
+# Final Project - Emotion Detection System
 
 This repository contains a collection of projects completed during the IBM Generative AI Engineering Professional Certificate.
 
